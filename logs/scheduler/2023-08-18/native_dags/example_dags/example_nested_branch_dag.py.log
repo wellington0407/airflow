@@ -1,0 +1,32 @@
+[2023-08-18 18:36:06,294] {processor.py:153} INFO - Started process (PID=18702) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:36:06,295] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-08-18 18:36:06,297] {logging_mixin.py:115} INFO - [2023-08-18 18:36:06,297] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:36:06,358] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:36:07,231] {logging_mixin.py:115} INFO - [2023-08-18 18:36:07,230] {manager.py:508} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2023-08-18 18:36:07,350] {logging_mixin.py:115} INFO - [2023-08-18 18:36:07,343] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2023-08-18 18:36:07,413] {logging_mixin.py:115} INFO - [2023-08-18 18:36:07,412] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2023-08-18 18:36:07,413] {logging_mixin.py:115} INFO - [2023-08-18 18:36:07,413] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:36:07,585] {logging_mixin.py:115} INFO - [2023-08-18 18:36:07,584] {dag.py:2398} INFO - Creating ORM DAG for example_nested_branch_dag
+[2023-08-18 18:36:07,627] {logging_mixin.py:115} INFO - [2023-08-18 18:36:07,626] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 18:36:07,669] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 1.391 seconds
+[2023-08-18 18:40:31,635] {processor.py:153} INFO - Started process (PID=19536) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:40:31,640] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-08-18 18:40:31,642] {logging_mixin.py:115} INFO - [2023-08-18 18:40:31,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:40:31,702] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:40:31,785] {logging_mixin.py:115} INFO - [2023-08-18 18:40:31,785] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:40:31,950] {logging_mixin.py:115} INFO - [2023-08-18 18:40:31,950] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 18:40:32,011] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.426 seconds
+[2023-08-18 18:41:15,194] {processor.py:153} INFO - Started process (PID=19768) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:41:15,196] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-08-18 18:41:15,198] {logging_mixin.py:115} INFO - [2023-08-18 18:41:15,197] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:41:15,248] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:41:15,331] {logging_mixin.py:115} INFO - [2023-08-18 18:41:15,330] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:15,390] {logging_mixin.py:115} INFO - [2023-08-18 18:41:15,389] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 18:41:15,426] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.247 seconds
+[2023-08-18 18:41:59,710] {processor.py:153} INFO - Started process (PID=19964) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:41:59,714] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-08-18 18:41:59,716] {logging_mixin.py:115} INFO - [2023-08-18 18:41:59,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:41:59,764] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-08-18 18:41:59,848] {logging_mixin.py:115} INFO - [2023-08-18 18:41:59,848] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:59,951] {logging_mixin.py:115} INFO - [2023-08-18 18:41:59,951] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 18:41:59,986] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.301 seconds

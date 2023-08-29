@@ -1,0 +1,32 @@
+[2023-08-18 18:35:49,589] {processor.py:153} INFO - Started process (PID=18640) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:35:49,598] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 18:35:49,599] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,599] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:35:49,628] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:35:49,760] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,760] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-08-18 18:35:49,784] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,784] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-08-18 18:35:49,804] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,803] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-08-18 18:35:49,804] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,804] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:35:49,818] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,818] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2023-08-18 18:35:49,839] {logging_mixin.py:115} INFO - [2023-08-18 18:35:49,839] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T21:35:49.839059+00:00, run_after=2023-08-18T21:35:49.839059+00:00
+[2023-08-18 18:35:49,867] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.285 seconds
+[2023-08-18 18:40:17,759] {processor.py:153} INFO - Started process (PID=19495) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:40:17,769] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 18:40:17,770] {logging_mixin.py:115} INFO - [2023-08-18 18:40:17,770] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:40:17,808] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:40:17,869] {logging_mixin.py:115} INFO - [2023-08-18 18:40:17,869] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:40:17,915] {logging_mixin.py:115} INFO - [2023-08-18 18:40:17,915] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T21:40:17.914485+00:00, run_after=2023-08-18T21:40:17.914485+00:00
+[2023-08-18 18:40:17,935] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2023-08-18 18:41:02,679] {processor.py:153} INFO - Started process (PID=19713) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:41:02,682] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 18:41:02,684] {logging_mixin.py:115} INFO - [2023-08-18 18:41:02,683] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:41:02,700] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:41:02,733] {logging_mixin.py:115} INFO - [2023-08-18 18:41:02,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:02,782] {logging_mixin.py:115} INFO - [2023-08-18 18:41:02,782] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T21:41:02.781930+00:00, run_after=2023-08-18T21:41:02.781930+00:00
+[2023-08-18 18:41:02,816] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.151 seconds
+[2023-08-18 18:41:44,551] {processor.py:153} INFO - Started process (PID=19878) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:41:44,566] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 18:41:44,567] {logging_mixin.py:115} INFO - [2023-08-18 18:41:44,567] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:41:44,581] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 18:41:44,727] {logging_mixin.py:115} INFO - [2023-08-18 18:41:44,727] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:44,837] {logging_mixin.py:115} INFO - [2023-08-18 18:41:44,837] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T21:41:44.836905+00:00, run_after=2023-08-18T21:41:44.836905+00:00
+[2023-08-18 18:41:44,891] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.348 seconds

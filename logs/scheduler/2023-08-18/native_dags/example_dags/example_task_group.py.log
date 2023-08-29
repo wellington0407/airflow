@@ -1,0 +1,32 @@
+[2023-08-18 18:35:52,936] {processor.py:153} INFO - Started process (PID=18663) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:35:52,950] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-08-18 18:35:52,967] {logging_mixin.py:115} INFO - [2023-08-18 18:35:52,965] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:35:53,014] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:35:53,345] {logging_mixin.py:115} INFO - [2023-08-18 18:35:53,344] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-08-18 18:35:53,393] {logging_mixin.py:115} INFO - [2023-08-18 18:35:53,393] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-08-18 18:35:53,403] {logging_mixin.py:115} INFO - [2023-08-18 18:35:53,403] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-08-18 18:35:53,403] {logging_mixin.py:115} INFO - [2023-08-18 18:35:53,403] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:35:53,426] {logging_mixin.py:115} INFO - [2023-08-18 18:35:53,426] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2023-08-18 18:35:53,444] {logging_mixin.py:115} INFO - [2023-08-18 18:35:53,444] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-08-17T21:35:53.443735+00:00, run_after=2023-08-18T21:35:53.443735+00:00
+[2023-08-18 18:35:53,478] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.585 seconds
+[2023-08-18 18:40:20,911] {processor.py:153} INFO - Started process (PID=19504) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:40:20,912] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-08-18 18:40:20,913] {logging_mixin.py:115} INFO - [2023-08-18 18:40:20,912] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:40:20,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:40:21,095] {logging_mixin.py:115} INFO - [2023-08-18 18:40:21,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:40:21,227] {logging_mixin.py:115} INFO - [2023-08-18 18:40:21,227] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-08-17T21:40:21.226472+00:00, run_after=2023-08-18T21:40:21.226472+00:00
+[2023-08-18 18:40:21,288] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.431 seconds
+[2023-08-18 18:41:04,815] {processor.py:153} INFO - Started process (PID=19724) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:41:04,826] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-08-18 18:41:04,827] {logging_mixin.py:115} INFO - [2023-08-18 18:41:04,827] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:41:04,853] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:41:04,912] {logging_mixin.py:115} INFO - [2023-08-18 18:41:04,912] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:04,998] {logging_mixin.py:115} INFO - [2023-08-18 18:41:04,998] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-08-17T21:41:04.997592+00:00, run_after=2023-08-18T21:41:04.997592+00:00
+[2023-08-18 18:41:05,031] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.246 seconds
+[2023-08-18 18:41:47,489] {processor.py:153} INFO - Started process (PID=19893) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:41:47,502] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-08-18 18:41:47,503] {logging_mixin.py:115} INFO - [2023-08-18 18:41:47,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:41:47,525] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-08-18 18:41:47,594] {logging_mixin.py:115} INFO - [2023-08-18 18:41:47,594] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:47,687] {logging_mixin.py:115} INFO - [2023-08-18 18:41:47,687] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-08-17T21:41:47.687365+00:00, run_after=2023-08-18T21:41:47.687365+00:00
+[2023-08-18 18:41:47,733] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.257 seconds

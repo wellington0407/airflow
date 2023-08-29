@@ -1,0 +1,32 @@
+[2023-08-18 18:36:00,346] {processor.py:153} INFO - Started process (PID=18694) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:36:00,348] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-18 18:36:00,349] {logging_mixin.py:115} INFO - [2023-08-18 18:36:00,349] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:36:00,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:36:00,828] {logging_mixin.py:115} INFO - [2023-08-18 18:36:00,827] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2023-08-18 18:36:00,871] {logging_mixin.py:115} INFO - [2023-08-18 18:36:00,870] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-08-18 18:36:00,910] {logging_mixin.py:115} INFO - [2023-08-18 18:36:00,910] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-08-18 18:36:00,911] {logging_mixin.py:115} INFO - [2023-08-18 18:36:00,911] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:36:00,971] {logging_mixin.py:115} INFO - [2023-08-18 18:36:00,970] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2023-08-18 18:36:01,033] {logging_mixin.py:115} INFO - [2023-08-18 18:36:01,023] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-18 18:36:01,090] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.759 seconds
+[2023-08-18 18:40:27,290] {processor.py:153} INFO - Started process (PID=19521) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:40:27,296] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-18 18:40:27,304] {logging_mixin.py:115} INFO - [2023-08-18 18:40:27,303] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:40:27,433] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:40:27,558] {logging_mixin.py:115} INFO - [2023-08-18 18:40:27,558] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:40:27,632] {logging_mixin.py:115} INFO - [2023-08-18 18:40:27,632] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-18 18:40:27,738] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.465 seconds
+[2023-08-18 18:41:11,245] {processor.py:153} INFO - Started process (PID=19753) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:41:11,247] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-18 18:41:11,248] {logging_mixin.py:115} INFO - [2023-08-18 18:41:11,248] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:41:11,307] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:41:11,403] {logging_mixin.py:115} INFO - [2023-08-18 18:41:11,403] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:11,499] {logging_mixin.py:115} INFO - [2023-08-18 18:41:11,499] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-18 18:41:11,522] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.299 seconds
+[2023-08-18 18:41:54,901] {processor.py:153} INFO - Started process (PID=19949) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:41:54,904] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-08-18 18:41:54,905] {logging_mixin.py:115} INFO - [2023-08-18 18:41:54,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:41:54,971] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-08-18 18:41:55,066] {logging_mixin.py:115} INFO - [2023-08-18 18:41:55,066] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 18:41:55,282] {logging_mixin.py:115} INFO - [2023-08-18 18:41:55,282] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-08-18 18:41:55,346] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.454 seconds
