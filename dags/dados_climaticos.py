@@ -3,6 +3,7 @@ from airflow.operators.bash_operator import BashOperator
 from airflow.operators.python_operator import PythonOperator
 from airflow.macros import ds_add
 import pendulum
+import os
 from os.path import join
 import pandas as pd
 
@@ -19,7 +20,7 @@ with DAG(
 
     def extrai_dados(data_interval_end):
         city = 'sorocaba'
-        key = ' '
+        key = os.environ['TOKEN_CLIMA']
 
         URL = join('https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/',
             f'{city}/{data_interval_end}/{ds_add(data_interval_end, 7)}?unitGroup=metric&include=days&key={key}&contentType=csv')
