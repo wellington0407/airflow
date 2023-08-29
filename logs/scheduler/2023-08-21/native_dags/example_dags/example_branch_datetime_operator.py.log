@@ -1,0 +1,7 @@
+[2023-08-21 10:40:49,844] {processor.py:153} INFO - Started process (PID=97467) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2023-08-21 10:40:49,844] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2023-08-21 10:40:49,844] {logging_mixin.py:115} INFO - [2023-08-21 10:40:49,844] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2023-08-21 10:40:49,855] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2023-08-21 10:40:49,874] {logging_mixin.py:115} INFO - [2023-08-21 10:40:49,874] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-21 10:40:49,897] {logging_mixin.py:115} INFO - [2023-08-21 10:40:49,896] {dag.py:2927} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2023-08-20T00:00:00+00:00, run_after=2023-08-21T00:00:00+00:00
+[2023-08-21 10:40:49,909] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.069 seconds

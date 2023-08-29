@@ -1,0 +1,7 @@
+[2023-08-21 10:40:07,877] {processor.py:153} INFO - Started process (PID=96420) to work on /home/linuxlite/Documentos/airflow/dags/dados_climaticos.py
+[2023-08-21 10:40:07,878] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/dags/dados_climaticos.py for tasks to queue
+[2023-08-21 10:40:07,879] {logging_mixin.py:115} INFO - [2023-08-21 10:40:07,879] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/dags/dados_climaticos.py
+[2023-08-21 10:40:09,835] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/linuxlite/Documentos/airflow/dags/dados_climaticos.py
+[2023-08-21 10:40:09,877] {logging_mixin.py:115} INFO - [2023-08-21 10:40:09,877] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-21 10:40:09,930] {logging_mixin.py:115} INFO - [2023-08-21 10:40:09,930] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-08-14T00:00:00+00:00, run_after=2023-08-21T00:00:00+00:00
+[2023-08-21 10:40:10,488] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/dags/dados_climaticos.py took 2.637 seconds

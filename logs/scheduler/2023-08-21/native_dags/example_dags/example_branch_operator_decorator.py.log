@@ -1,0 +1,7 @@
+[2023-08-21 10:40:52,059] {processor.py:153} INFO - Started process (PID=97471) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-21 10:40:52,059] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2023-08-21 10:40:52,061] {logging_mixin.py:115} INFO - [2023-08-21 10:40:52,060] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-21 10:40:52,098] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-21 10:40:52,119] {logging_mixin.py:115} INFO - [2023-08-21 10:40:52,118] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-21 10:40:52,141] {logging_mixin.py:115} INFO - [2023-08-21 10:40:52,141] {dag.py:2927} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2023-08-20T00:00:00+00:00, run_after=2023-08-21T00:00:00+00:00
+[2023-08-21 10:40:52,158] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.104 seconds

@@ -1,0 +1,7 @@
+[2023-08-21 10:40:33,176] {processor.py:153} INFO - Started process (PID=97449) to work on /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-21 10:40:33,176] {processor.py:641} INFO - Processing file /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-08-21 10:40:33,177] {logging_mixin.py:115} INFO - [2023-08-21 10:40:33,177] {dagbag.py:507} INFO - Filling up the DagBag from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-21 10:40:33,191] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-21 10:40:33,205] {logging_mixin.py:115} INFO - [2023-08-21 10:40:33,205] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-21 10:40:33,220] {logging_mixin.py:115} INFO - [2023-08-21 10:40:33,220] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-08-21 10:40:33,231] {processor.py:161} INFO - Processing /home/linuxlite/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
